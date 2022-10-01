@@ -4,9 +4,9 @@ NASAハッカソン　space　apps challenge　IN　串本
 
 
 南極
-https://www.gsi.go.jp/antarctic/download_index_03.html
+https://www.eorc.jaxa.jp/earthview/2008/tp080206.html
 
 北極
-https://www.nipr.ac.jp/aerc/map.html
+https://ads.nipr.ac.jp/vishop/#/monitor
 
 
