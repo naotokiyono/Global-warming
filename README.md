@@ -3,7 +3,9 @@
 NASAハッカソンIN串本
 
 
-謝辞
-世界地図 フリー ベクター=>世界地図 フリー ベクター を使わせてもらってます。
+南極
+https://www.gsi.go.jp/antarctic/download_index_03.html
 
-![stock-vector-world-map-divided-into-six-continents-each-continent-in-different-color-simple-flat-vector-1515290870](https://user-images.githubusercontent.com/114276334/193404333-cc9185e2-66fb-4bd1-bcaa-34d926be969a.jpg
+北極
+https://www.nipr.ac.jp/aerc/map.html
+
